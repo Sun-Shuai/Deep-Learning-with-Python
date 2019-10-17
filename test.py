@@ -7,5 +7,4 @@
 @desc:
 """
 
-a = [1, 3, 4]
-assert len(a) == 3
+print(3//4)
