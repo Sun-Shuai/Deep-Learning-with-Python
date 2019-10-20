@@ -6,5 +6,8 @@
 @file: test.py
 @desc:
 """
+from keras import Sequential
 
 print(3//4)
+model = Sequential()
+print(model.layers)
